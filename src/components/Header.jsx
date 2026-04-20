@@ -7,7 +7,7 @@ export default function Header({ mode, toggleMode }) {
       <div className="header-left">
         <h1>
           <FaTint style={{ color: "#e63946", marginRight: "8px" }} />
-          BloodConnect
+          BloodLINK
         </h1>
         <p>Urgent Blood Donation Network</p>
       </div>
